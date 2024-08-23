@@ -1,0 +1,1 @@
+This script fetches trivia questions from the Open Trivia Database API and posts them on Twitter using the Tweepy library. It selects questions from specific categories and creates a tweet with a poll for users to answer.
